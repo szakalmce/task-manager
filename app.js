@@ -1,4 +1,5 @@
 let currentContent = '';
+let currentSha = ''; // GitHub file SHA for updates
 let tasksData = [];
 
 // Add colored tags to task text
@@ -232,13 +233,15 @@ async function handleCheckboxChange(event) {
   const newContent = lines.join('\n');
 
   try {
-    await fetch('/api/tasks', {
+    const response = await fetch('/api/tasks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ content: newContent })
+      body: JSON.stringify({ content: newContent, sha: currentSha })
     });
 
+    const data = await response.json();
     currentContent = newContent;
+    currentSha = data.sha; // Update SHA after save
     tasksData = parseMarkdown(newContent);
   } catch (error) {
     console.error('Error saving tasks:', error);
@@ -311,13 +314,15 @@ async function handleSaveClick(taskDiv, lineNumber) {
   const newContent = lines.join('\n');
 
   try {
-    await fetch('/api/tasks', {
+    const response = await fetch('/api/tasks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ content: newContent })
+      body: JSON.stringify({ content: newContent, sha: currentSha })
     });
 
+    const data = await response.json();
     currentContent = newContent;
+    currentSha = data.sha; // Update SHA after save
     tasksData = parseMarkdown(newContent);
 
     // Update UI
@@ -350,13 +355,15 @@ async function handleDeleteClick(lineNumber, taskText) {
   const newContent = lines.join('\n');
 
   try {
-    await fetch('/api/tasks', {
+    const response = await fetch('/api/tasks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ content: newContent })
+      body: JSON.stringify({ content: newContent, sha: currentSha })
     });
 
+    const data = await response.json();
     currentContent = newContent;
+    currentSha = data.sha; // Update SHA after save
     tasksData = parseMarkdown(newContent);
     renderTasks(tasksData);
   } catch (error) {
@@ -373,6 +380,7 @@ async function loadTasks() {
 
     if (data.content !== currentContent) {
       currentContent = data.content;
+      currentSha = data.sha; // Store SHA for updates
       tasksData = parseMarkdown(currentContent);
       renderTasks(tasksData);
     }
@@ -534,13 +542,15 @@ async function addNewTask(taskName, taskDate) {
   const newContent = lines.join('\n');
 
   try {
-    await fetch('/api/tasks', {
+    const response = await fetch('/api/tasks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ content: newContent })
+      body: JSON.stringify({ content: newContent, sha: currentSha })
     });
 
+    const data = await response.json();
     currentContent = newContent;
+    currentSha = data.sha; // Update SHA after save
     tasksData = parseMarkdown(newContent);
     renderTasks(tasksData);
     return true;
