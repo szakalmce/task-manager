@@ -35,11 +35,20 @@ module.exports = async function handler(req, res) {
         }
       });
 
+      console.log('GitHub API response status:', response.status);
+      console.log('GitHub API response ok:', response.ok);
+
       if (!response.ok) {
-        throw new Error(`GitHub API error: ${response.statusText}`);
+        const errorText = await response.text();
+        console.log('GitHub API error response:', errorText);
+        throw new Error(`GitHub API error: ${response.statusText} - ${errorText}`);
       }
 
       const data = await response.json();
+      console.log('GitHub API data keys:', Object.keys(data));
+      console.log('GitHub API data.content exists?', !!data.content);
+      console.log('GitHub API data.content type:', typeof data.content);
+
       const content = Buffer.from(data.content, 'base64').toString('utf-8');
 
       return res.status(200).json({
