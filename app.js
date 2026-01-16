@@ -378,6 +378,10 @@ async function loadTasks() {
     const response = await fetch('/api/tasks');
     const data = await response.json();
 
+    console.log('DEBUG: API response:', data);
+    console.log('DEBUG: data.content exists?', !!data.content);
+    console.log('DEBUG: data.content type:', typeof data.content);
+
     if (data.content !== currentContent) {
       currentContent = data.content;
       currentSha = data.sha; // Store SHA for updates
