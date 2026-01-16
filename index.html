@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📝 Codzienne Działania</h1>
+            <div id="last-sync" class="sync-status">Ładowanie...</div>
+        </header>
+
+        <div class="add-task-form">
+            <h2>➕ Dodaj nowe zadanie</h2>
+            <div class="form-row">
+                <input type="text" id="task-name" placeholder="Nazwa zadania..." />
+                <input type="date" id="task-date" />
+                <button id="add-task-btn" class="add-task-btn">💾 Zapisz</button>
+            </div>
+            <div id="form-error" class="form-error"></div>
+        </div>
+
+        <main id="tasks-container">
+            <!-- Tasks will be rendered here -->
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

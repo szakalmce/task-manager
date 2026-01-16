@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.sync-status {
+    color: #666;
+    font-size: 14px;
+}
+
+.add-task-form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.add-task-form h2 {
+    font-size: 18px;
+    color: #2563eb;
+    margin-bottom: 15px;
+}
+
+.form-row {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.form-row input[type="text"] {
+    flex: 2;
+    padding: 10px 15px;
+    border: 2px solid #e5e7eb;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    transition: border-color 0.2s;
+}
+
+.form-row input[type="text"]:focus {
+    outline: none;
+    border-color: #10b981;
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
+}
+
+.form-row input[type="date"] {
+    flex: 1;
+    padding: 10px 15px;
+    border: 2px solid #e5e7eb;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    transition: border-color 0.2s;
+}
+
+.form-row input[type="date"]:focus {
+    outline: none;
+    border-color: #10b981;
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
+}
+
+.add-task-btn {
+    padding: 10px 20px;
+    background: #10b981;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+
+.add-task-btn:hover {
+    background: #059669;
+}
+
+.add-task-btn:active {
+    transform: scale(0.98);
+}
+
+.form-error {
+    color: #dc2626;
+    font-size: 14px;
+    margin-top: 10px;
+    min-height: 20px;
+}
+
+.progress-container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.progress-bar-bg {
+    width: 100%;
+    height: 30px;
+    background: #e5e7eb;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #10b981, #059669);
+    transition: width 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.progress-text {
+    text-align: center;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+}
+
+.day .progress-container {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.day {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.day.today {
+    border: 3px solid #10b981;
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+}
+
+.day h2 {
+    font-size: 20px;
+    color: #2563eb;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e5e7eb;
+}
+
+.day.today h2 {
+    color: #10b981;
+    font-size: 22px;
+}
+
+.tasks-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.task {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px;
+    background: #f9fafb;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.task:hover {
+    background: #f3f4f6;
+}
+
+/* Priority backgrounds */
+.task.priority-high {
+    background: rgba(220, 38, 38, 0.1);
+    border-left: 3px solid #dc2626;
+}
+
+.task.priority-high:hover {
+    background: rgba(220, 38, 38, 0.15);
+}
+
+.task.priority-medium {
+    background: rgba(5, 150, 105, 0.1);
+    border-left: 3px solid #059669;
+}
+
+.task.priority-medium:hover {
+    background: rgba(5, 150, 105, 0.15);
+}
+
+.task.priority-low {
+    background: rgba(37, 99, 235, 0.1);
+    border-left: 3px solid #2563eb;
+}
+
+.task.priority-low:hover {
+    background: rgba(37, 99, 235, 0.15);
+}
+
+.task.completed label {
+    text-decoration: line-through;
+    color: #9ca3af;
+}
+
+.task input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.task label {
+    flex: 1;
+    cursor: pointer;
+}
+
+.task-edit-input {
+    flex: 1;
+    padding: 6px 10px;
+    border: 2px solid #10b981;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: inherit;
+}
+
+.task-edit-input:focus {
+    outline: none;
+    border-color: #059669;
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
+}
+
+.edit-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.edit-btn:hover {
+    background: #e5e7eb;
+}
+
+.delete-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s;
+}
+
+.delete-btn:hover {
+    background: #fee2e2;
+    color: #dc2626;
+}
+
+.save-btn {
+    background: #10b981;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.save-btn:hover {
+    background: #059669;
+}
+
+.save-btn:active {
+    transform: scale(0.98);
+}
+
+/* Colored tags for categories and priorities */
+.tag-praca {
+    color: #2563eb;
+    font-weight: 600;
+}
+
+.tag-rozwoj {
+    color: #7c3aed;
+    font-weight: 600;
+}
+
+.tag-branding {
+    color: #ea580c;
+    font-weight: 600;
+}
+
+.tag-zdrowie {
+    color: #dc2626;
+    font-weight: 600;
+}
+
+.tag-zycie {
+    color: #0891b2;
+    font-weight: 600;
+}
+
+.tag-priority-high {
+    color: #dc2626;
+    font-weight: 700;
+}
+
+.tag-priority-medium {
+    color: #059669;
+    font-weight: 600;
+}
+
+.tag-priority-low {
+    color: #6b7280;
+    font-weight: 600;
+}
