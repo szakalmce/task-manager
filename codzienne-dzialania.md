@@ -215,6 +215,11 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
+
+## Sobota, 17 stycznia 2026
+
+- [ ] [PRACA] sdfsdf [ŚREDNI]
+
 ## Niedziela, 19 stycznia 2026
 
 - [ ] [ZDROWIE] Brzuszki i 6 Weidera - dzień 10 [ŚREDNI]
