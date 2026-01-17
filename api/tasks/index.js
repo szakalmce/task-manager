@@ -58,7 +58,15 @@ module.exports = async function handler(req, res) {
     }
     else if (req.method === 'POST') {
       // Save tasks to GitHub
+      console.log('POST request received');
+      console.log('req.body:', req.body);
+      console.log('req.body type:', typeof req.body);
+
       const { content, sha } = req.body;
+
+      console.log('content exists?', !!content);
+      console.log('content length:', content?.length);
+      console.log('sha exists?', !!sha);
 
       if (!content) {
         return res.status(400).json({ error: 'Content is required' });
