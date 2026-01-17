@@ -218,6 +218,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Sobota, 17 stycznia 2026
 
+- [ ] [PRACA] Kupić chleb [ŚREDNI]
 
 ## Niedziela, 19 stycznia 2026
 
