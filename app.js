@@ -71,6 +71,8 @@ function sortDaysByDate(days) {
   // Get current date from system
   const today = new Date();
   const todayDay = today.getDate();
+  const todayMonthIndex = today.getMonth();
+  const todayYear = today.getFullYear();
 
   // Month names in genitive case (as used in dates: "13 stycznia")
   const monthsGenitive = [
@@ -78,26 +80,56 @@ function sortDaysByDate(days) {
     'lipca', 'sierpnia', 'września', 'października', 'listopada', 'grudnia'
   ];
 
-  const todayMonth = monthsGenitive[today.getMonth()];
-  const todayPattern = `${todayDay} ${todayMonth}`;
+  const todayPattern = `${todayDay} ${monthsGenitive[todayMonthIndex]}`;
 
   // Debug: log what we're looking for
-  console.log('Szukam daty:', todayPattern);
+  console.log('🔍 Szukam dzisiejszej daty:', todayPattern, today.getFullYear());
 
-  return days.sort((a, b) => {
-    // Check if day title matches today's date (day and month only)
-    const aTitleLower = a.title.toLowerCase();
-    const bTitleLower = b.title.toLowerCase();
+  // Helper function to extract date from title
+  function extractDate(title) {
+    // Format: "Poniedziałek, 19 stycznia 2026"
+    const parts = title.match(/(\d+)\s+(\w+)\s+(\d{4})/);
+    if (!parts) return null;
 
-    const aIsToday = aTitleLower.includes(todayPattern);
-    const bIsToday = bTitleLower.includes(todayPattern);
+    const day = parseInt(parts[1]);
+    const monthName = parts[2];
+    const year = parseInt(parts[3]);
+    const monthIndex = monthsGenitive.indexOf(monthName);
 
-    if (aIsToday) console.log('Znaleziono dzisiejszy dzień:', a.title);
+    if (monthIndex === -1) return null;
 
-    if (aIsToday) return -1;
-    if (bIsToday) return 1;
-    return 0;
+    return new Date(year, monthIndex, day);
+  }
+
+  // Separate days into past, today, and future
+  const todayDate = new Date(todayYear, todayMonthIndex, todayDay);
+  todayDate.setHours(0, 0, 0, 0); // Reset time for accurate comparison
+
+  const categorized = days.map(day => {
+    const dayDate = extractDate(day.title);
+    if (!dayDate) return { day, category: 'unknown', date: null };
+
+    dayDate.setHours(0, 0, 0, 0);
+
+    if (dayDate.getTime() === todayDate.getTime()) {
+      console.log('✅ Znaleziono dzisiejszy dzień:', day.title);
+      return { day, category: 'today', date: dayDate };
+    } else if (dayDate > todayDate) {
+      return { day, category: 'future', date: dayDate };
+    } else {
+      return { day, category: 'past', date: dayDate };
+    }
   });
+
+  // Sort: today first, then future days (chronologically), then past days (reverse chronologically)
+  const sorted = [
+    ...categorized.filter(d => d.category === 'today'),
+    ...categorized.filter(d => d.category === 'future').sort((a, b) => a.date - b.date),
+    ...categorized.filter(d => d.category === 'past').sort((a, b) => b.date - a.date),
+    ...categorized.filter(d => d.category === 'unknown')
+  ];
+
+  return sorted.map(item => item.day);
 }
 
 // Render tasks to HTML
