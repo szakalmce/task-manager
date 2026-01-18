@@ -236,6 +236,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] G-Sourcing NDA i wysłanie naszego NDA [WYSOKI]
 - [ ] [PRACA] Przygotowanie nowego CV (mojego) [ŚREDNI]
 - [ ] [PERSONAL BRANDING] Podcast - stworzenie materiału dodatkowego [ŚREDNI]
+- [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 
 ---
 
