@@ -218,15 +218,20 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Sobota, 17 stycznia 2026
 
+- [ ] [PRACA] Kupić chleb [ŚREDNI]
 
-## Niedziela, 19 stycznia 2026
+---
+
+## Niedziela, 18 stycznia 2026
 
 - [ ] [ZDROWIE] Brzuszki i 6 Weidera - dzień 10 [ŚREDNI]
 
 ---
 
-## Poniedziałek, 20 stycznia 2026
+## Poniedziałek, 19 stycznia 2026
 
+- [ ] [PERSONAL BRANDING] Zmienić stopkę i opis na LinkedIn [WYSOKI]
+- [ ] [PRACA] Email do (wszystkich) osób z mom test (1 kontakt) [WYSOKI]
 - [ ] [PRACA] Kontakt z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] G-Sourcing NDA i wysłanie naszego NDA [WYSOKI]
 - [ ] [PRACA] Przygotowanie nowego CV (mojego) [ŚREDNI]
@@ -234,7 +239,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
-## Wtorek, 21 stycznia 2026
+## Wtorek, 20 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
 - [ ] [PRACA] Kontakt z PKO S.A. - pytanie o DevOps, telefon jeśli nie odpiszą [ŚREDNI]
@@ -247,19 +252,35 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
-## Piątek, 24 stycznia 2026
+## Środa, 21 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Filipem Amro (AI Developer) - feedback o Pekao, status rekrutacji (SMS/email/telefon) [WYSOKI]
 
 ---
 
-## Niedziela, 26 stycznia 2026
+## Czwartek, 22 stycznia 2026
+
+
+
+---
+
+## Piątek, 23 stycznia 2026
 
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
 
 ---
 
-## Poniedziałek, 27 stycznia 2026
+## Sobota, 24 stycznia 2026
+
+---
+
+## Niedziela, 25 stycznia 2026
+
+
+
+---
+
+## Poniedziałek, 26 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
@@ -267,44 +288,56 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
-## Wtorek, 28 stycznia 2026
+## Wtorek, 27 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 
 ---
 
-## Czwartek, 30 stycznia 2026
+## Środa, 28 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 
 ---
 
-## Wtorek, 11 lutego 2026
+## Czwartek, 29 stycznia 2026
+
+
+
+---
+
+## Piątek, 30 stycznia 2026
+
+
+
+---
+
+## Wtorek, 10 lutego 2026
 
 - [ ] [PRACA] Kontakt z Joanną Filipek-Krawczyńską (Orange) - follow-up po feriach: jak poszły ferie, nauka jazdy na nartach, status podwyżki Pawła, rekrutacje (marzec-kwiecień) [ŚREDNI]
 
 ---
 
-## Poniedziałek, 23 lutego 2026
+## Piątek, 20 lutego 2026
 
 - [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - follow-up: czy wszystko ok z Vadimem Krasouckim [ŚREDNI]
 
 ---
 
-## Czwartek, 27 lutego 2026
+## Czwartek, 26 lutego 2026
 
 - [ ] [PRACA] Kontakt z Grzegorzem Starkiem - czy wszystko OK, czy dalej pracuje, samopoczucie w projekcie [ŚREDNI]
 
 ---
 
-## Środa, 5 marca 2026
+## Środa, 4 marca 2026
 
 - [ ] [PRACA] Kontakt z Kingą Makowską (Orange Polska) - **PRZED ROZMOWĄ: sprawdzić notatki w Menedżerowie.md** - plany rekrutacyjne Q2, jak się ma kot [ŚREDNI]
 
 ---
 
-## Poniedziałek, 30 marca 2026
+## Piątek, 27 marca 2026
 
 - [ ] [PRACA] Kontakt z Paulą Wyrebek (Orange Polska) - jak było na nartach w Alpach, co słychać, czy są dobre wieści dla nas jako dostawców [ŚREDNI]
 
