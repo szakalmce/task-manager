@@ -4,7 +4,7 @@
   "description": "Simple task manager for codzienne-działania.md",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "dev": "node server-local.js",
     "sync": "node server-sync.js"
   },
   "dependencies": {
