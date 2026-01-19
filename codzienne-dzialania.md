@@ -246,22 +246,19 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Wtorek, 20 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Dominikiem Suchnerem (Bank Millennium) - dalsze kroki podwyżkowe [WYSOKI]
-- [ ] [PRACA] Follow-up z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
 - [ ] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
 - [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
 - [ ] [PRACA] Kontakt z PKO S.A. - pytanie o DevOps, telefon jeśli nie odpiszą [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up rozmowy z menadżerem (miała ustalić do 16.01) [ŚREDNI]
-- [ ] [PRACA] Kontakt z Marcinem Laskowskim (Bank Millennium) - follow-up maila, status rekrutacji, współpraca z firmami zewnętrznymi [ŚREDNI]
 - [ ] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
-- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
-- [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
 
 ---
 
 ## Środa, 21 stycznia 2026
 
+- [ ] [PRACA] Follow-up z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] Follow-up do Jeremiego Gryka (PSE) - sprawdzenie czy otrzymał CV i rekomendację Wojciecha Gustowskiego (email lub telefon) [WYSOKI]
 - [ ] [PRACA] Kontakt z Filipem Amro (AI Developer) - feedback o Pekao, status rekrutacji (SMS/email/telefon) [WYSOKI]
 
@@ -301,6 +298,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 27 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 
 ---
@@ -327,6 +325,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Poniedziałek, 3 lutego 2026
 
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
+
+---
+
+## Wtorek, 4 lutego 2026
+
+- [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
 
 ---
 
