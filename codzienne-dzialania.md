@@ -245,6 +245,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 20 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
 - [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
 - [ ] [PRACA] Kontakt z PKO S.A. - pytanie o DevOps, telefon jeśli nie odpiszą [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up rozmowy z menadżerem (miała ustalić do 16.01) [ŚREDNI]
