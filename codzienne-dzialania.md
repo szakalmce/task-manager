@@ -239,7 +239,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PERSONAL BRANDING] 3 posty na LinkedIn (dodanie i ustalenie) nt. podkastu [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie (rozbudowanie ostatniego tekstu) [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie (rozbudowanie ostatniego tekstu) [ŚREDNI]
 
 ---
 
