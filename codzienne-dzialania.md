@@ -245,6 +245,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 20 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Dominikiem Suchnerem (Bank Millennium) - dalsze kroki podwyżkowe [WYSOKI]
 - [ ] [PRACA] Follow-up z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
 - [ ] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
