@@ -231,7 +231,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Poniedziałek, 19 stycznia 2026
 
 - [x] [PERSONAL BRANDING] Zmienić stopkę i opis na LinkedIn [WYSOKI]
-- [ ] [PRACA] Email do (wszystkich) osób z mom test (1 kontakt) [WYSOKI]
+- [x] [PRACA] Email do (wszystkich) osób z mom test (1 kontakt) [WYSOKI]
 - [x] [PRACA] Kontakt z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] G-Sourcing NDA i wysłanie naszego NDA [WYSOKI]
 - [ ] [PRACA] Przygotowanie nowego CV (mojego) [ŚREDNI]
