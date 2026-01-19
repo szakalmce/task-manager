@@ -232,7 +232,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 - [x] [PERSONAL BRANDING] Zmienić stopkę i opis na LinkedIn [WYSOKI]
 - [ ] [PRACA] Email do (wszystkich) osób z mom test (1 kontakt) [WYSOKI]
-- [ ] [PRACA] Kontakt z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
+- [x] [PRACA] Kontakt z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] G-Sourcing NDA i wysłanie naszego NDA [WYSOKI]
 - [ ] [PRACA] Przygotowanie nowego CV (mojego) [ŚREDNI]
 - [x] [PERSONAL BRANDING] Podcast - stworzenie materiału dodatkowego [ŚREDNI]
@@ -245,6 +245,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 20 stycznia 2026
 
+- [ ] [PRACA] Follow-up z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
 - [ ] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
 - [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
@@ -260,6 +261,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Środa, 21 stycznia 2026
 
+- [ ] [PRACA] Follow-up do Jeremiego Gryka (PSE) - sprawdzenie czy otrzymał CV i rekomendację Wojciecha Gustowskiego (email lub telefon) [WYSOKI]
 - [ ] [PRACA] Kontakt z Filipem Amro (AI Developer) - feedback o Pekao, status rekrutacji (SMS/email/telefon) [WYSOKI]
 
 ---
@@ -273,6 +275,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Piątek, 23 stycznia 2026
 
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
+
+**INFO:** Kamil Wąsowicz wraca z urlopu
 
 ---
 
