@@ -235,9 +235,9 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z PSE w sprawie Cyber Security Inżyniera Wojciecha Gustowskiego [WYSOKI]
 - [ ] [PRACA] G-Sourcing NDA i wysłanie naszego NDA [WYSOKI]
 - [ ] [PRACA] Przygotowanie nowego CV (mojego) [ŚREDNI]
-- [ ] [PERSONAL BRANDING] Podcast - stworzenie materiału dodatkowego [ŚREDNI]
+- [x] [PERSONAL BRANDING] Podcast - stworzenie materiału dodatkowego [ŚREDNI]
 - [x] [PERSONAL BRANDING] 3 posty na LinkedIn (dodanie i ustalenie) nt. podkastu [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie (rozbudowanie ostatniego tekstu) [ŚREDNI]
 
