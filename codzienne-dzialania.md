@@ -254,7 +254,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
 - [x] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie [ŚREDNI]
 
