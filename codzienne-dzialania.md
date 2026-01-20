@@ -255,7 +255,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
 - [ ] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie [ŚREDNI]
 
 ---
