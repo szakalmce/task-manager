@@ -295,6 +295,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Poniedziałek, 26 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Aleksandrem Siwickim (AI Developer) - feedback z rekrutacji do banku Pekao S.A. [WYSOKI]
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [ ] [PRACA] Kontakt z Vadimem Krasouckim - czy wszystko ok [ŚREDNI]
@@ -370,6 +371,27 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ---
 
 ### REKRUTACJA
+
+#### 🎯 Aleksander Siwicki - AI Developer (Pekao)
+**Data rozmowy**: 20 stycznia 2026
+**Stanowisko**: AI Developer
+**Projekt**: Pekao S.A.
+**Status kandydata**: W procesie
+
+**Kluczowe informacje:**
+- Kandydat na pozycję AI Developer do Pekao S.A.
+- **Obietnica**: Wrócę z feedbackiem z rekrutacji
+- **Deadline kontaktu**: Poniedziałek, 26 stycznia 2026
+- **Forma kontaktu**: Telefon/email
+
+**Następne kroki:**
+- 26 stycznia - kontakt z Aleksandrem z feedbackiem z procesu w Pekao
+
+**Kontakt:**
+- Imię i nazwisko: Aleksander Siwicki
+- Stanowisko: AI Developer
+
+---
 
 #### 🎯 Filip Amro - AI Developer (Pekao)
 **Data rozmowy**: 16 stycznia 2026
