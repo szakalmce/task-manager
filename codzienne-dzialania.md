@@ -253,7 +253,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up rozmowy z menadżerem (miała ustalić do 16.01) [ŚREDNI]
 - [x] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
-- [ ] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
+- [x] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie [ŚREDNI]
