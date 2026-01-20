@@ -248,7 +248,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt z Dominikiem Suchnerem (Bank Millennium) - dalsze kroki podwyżkowe [WYSOKI]
 - [x] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
 - [x] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
-- [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
+- [x] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
 - [x] [PRACA] Kontakt z PKO S.A. - pytanie o DevOps, telefon jeśli nie odpiszą [ŚREDNI]
 - [x] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up rozmowy z menadżerem (miała ustalić do 16.01) [ŚREDNI]
 - [x] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
@@ -361,6 +361,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Środa, 4 marca 2026
 
 - [ ] [PRACA] Kontakt z Kingą Makowską (Orange Polska) - **PRZED ROZMOWĄ: sprawdzić notatki w Menedżerowie.md** - plany rekrutacyjne Q2, jak się ma kot [ŚREDNI]
+
+---
+
+## Czwartek, 12 marca 2026
+
+- [ ] [PRACA] Follow-up z Karolem Tajduś (Pekao) - szef AI, zapytać czy wszystko ok, jak współpraca, czy potrzebuje dodatkowego wsparcia [ŚREDNI]
 
 ---
 
