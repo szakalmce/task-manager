@@ -256,7 +256,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka 50 fiszek [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Niemiecki - 10 minut pisanie [ŚREDNI]
 
 ---
 
