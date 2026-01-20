@@ -245,13 +245,13 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 20 stycznia 2026
 
-- [ ] [PRACA] Kontakt z Dominikiem Suchnerem (Bank Millennium) - dalsze kroki podwyżkowe [WYSOKI]
-- [ ] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
-- [ ] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
+- [x] [PRACA] Kontakt z Dominikiem Suchnerem (Bank Millennium) - dalsze kroki podwyżkowe [WYSOKI]
+- [x] [PRACA] Analiza stawek Bank Millennium i zestawienie kwot vs. oczekiwane podwyżki [WYSOKI]
+- [x] [PRACA] Kontakt z Katarzyną i Cezarym (Orange / Millennium) z pytaniem o KsEF (kiedy, gdzie ma być zastosowany i kto jest osobą kontaktową w tym temacie) [WYSOKI]
 - [ ] [PRACA] Kontakt z Karolem Tajduś (Pekao) - szef AI, rozmowa o kandydatach i wsparciu w obszarze AI, telefon po godzinie 15:00 [WYSOKI]
 - [ ] [PRACA] Kontakt z PKO S.A. - pytanie o DevOps, telefon jeśli nie odpiszą [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up rozmowy z menadżerem (miała ustalić do 16.01) [ŚREDNI]
-- [ ] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
+- [x] [PRACA] Kontakt z Pawłem Rytwińskim (Orange) - follow-up podwyżki, czy "maszyna ruszyła" [ŚREDNI]
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
 - [ ] [PERSONAL BRANDING] Przygotowanie materiałów (scenariusz) do kolejnego odcinka podcastu [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
