@@ -268,7 +268,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PERSONAL BRANDING] Momtest-linkedin 2/3 [WYSOKI]
 - [x] [PERSONAL BRANDING] Podcast - przygotowanie notatek, intro i całej agendy odcinka [WYSOKI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 30 minut [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Niemiecki - powtórka fiszek + 3 nowe fiszki [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Niemiecki - powtórka fiszek + 3 nowe fiszki [ŚREDNI]
 
 ---
 
