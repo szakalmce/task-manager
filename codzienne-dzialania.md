@@ -283,6 +283,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Piątek, 23 stycznia 2026
 
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
+- [ ] [PRACA] Kontakt z Kamilem Harsimiukiem - podwyżka [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up, jeśli nie odpisała - zadzwonić [ŚREDNI]
 
 **INFO:** Kamil Wąsowicz wraca z urlopu
