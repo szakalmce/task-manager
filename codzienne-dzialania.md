@@ -275,6 +275,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Czwartek, 22 stycznia 2026
 
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
+- [ ] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
 
 ---
 
