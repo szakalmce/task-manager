@@ -264,8 +264,11 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
 - [ ] [PRACA] Follow-up do Jeremiego Gryka (PSE) - sprawdzenie czy otrzymał CV i rekomendację Wojciecha Gustowskiego (email lub telefon) [WYSOKI]
 - [ ] [PRACA] Kontakt z Filipem Amro (AI Developer) - feedback o Pekao, status rekrutacji (SMS/email/telefon) [WYSOKI]
+- [ ] [PRACA] Uzupełnienie 5 menadżerów sales 2026 [ŚREDNI]
 - [ ] [PERSONAL BRANDING] Momtest-linkedin 2/3 [WYSOKI]
-- [ ] [PERSONAL BRANDING] Podcast - przygotowanie notatek, intro i całej agendy odcinka [WYSOKI]
+- [x] [PERSONAL BRANDING] Podcast - przygotowanie notatek, intro i całej agendy odcinka [WYSOKI]
+- [ ] [ROZWÓJ OSOBISTY] Claude Code - 30 minut [ŚREDNI]
+- [ ] [ROZWÓJ OSOBISTY] Niemiecki - powtórka fiszek + 3 nowe fiszki [ŚREDNI]
 
 ---
 
