@@ -262,9 +262,9 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Środa, 21 stycznia 2026
 
 - [x] [PRACA] Follow-up z Tomkiem Solorzem - powrót do pracy, samochód, podwyżki dla Marka i Kamila, nowa osoba kontaktowa do rekrutacji [ŚREDNI]
-- [ ] [PRACA] Follow-up do Jeremiego Gryka (PSE) - sprawdzenie czy otrzymał CV i rekomendację Wojciecha Gustowskiego (email lub telefon) [WYSOKI]
+- [x] [PRACA] Follow-up do Jeremiego Gryka (PSE) - sprawdzenie czy otrzymał CV i rekomendację Wojciecha Gustowskiego (email lub telefon) [WYSOKI]
 - [ ] [PRACA] Kontakt z Filipem Amro (AI Developer) - feedback o Pekao, status rekrutacji (SMS/email/telefon) [WYSOKI]
-- [ ] [PRACA] Uzupełnienie 5 menadżerów sales 2026 [ŚREDNI]
+- [x] [PRACA] Uzupełnienie 5 menadżerów sales 2026 [ŚREDNI]
 - [x] [PERSONAL BRANDING] Momtest-linkedin 2/3 [WYSOKI]
 - [x] [PERSONAL BRANDING] Podcast - przygotowanie notatek, intro i całej agendy odcinka [WYSOKI]
 - [ ] [ROZWÓJ OSOBISTY] Claude Code - 30 minut [ŚREDNI]
@@ -274,6 +274,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Czwartek, 22 stycznia 2026
 
+- [ ] [PRACA] Kontakt telefoniczny z Jeremim Gryką (PSE) - jeśli nie odpowie na maila [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
 - [ ] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
