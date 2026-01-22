@@ -277,8 +277,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt telefoniczny z Jeremim Gryką (PSE) - jeśli nie odpowie na maila [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
-- [ ] [ROZWÓJ OSOBISTY] Niemiecki - 50 słówek + 10 minut czytanie aktywne słuchanie [ŚREDNI]
-- [ ] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Niemiecki - 50 słówek + 10 minut czytanie aktywne słuchanie [ŚREDNI]
+- [x] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
 
 ---
 
