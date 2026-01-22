@@ -277,6 +277,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt telefoniczny z Jeremim Gryką (PSE) - jeśli nie odpowie na maila [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
+- [ ] [ROZWÓJ OSOBISTY] Niemiecki - 50 słówek + 10 minut czytanie aktywne słuchanie [ŚREDNI]
 - [ ] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
 
 ---
@@ -284,6 +285,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Piątek, 23 stycznia 2026
 
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
+- [ ] [PRACA] Kontakt z Inżynierem Bezpieczeństwa do PSE - follow-up (Wojciech Gustowski) [WYSOKI]
 - [ ] [PRACA] Kontakt z Kamilem Harsimiukiem - podwyżka [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up, jeśli nie odpisała - zadzwonić [ŚREDNI]
 
@@ -312,6 +314,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 27 stycznia 2026
 
+- [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
+- [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 
