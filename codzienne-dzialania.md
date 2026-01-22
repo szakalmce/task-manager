@@ -316,6 +316,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Wtorek, 27 stycznia 2026
 
 - [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
+- [ ] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
