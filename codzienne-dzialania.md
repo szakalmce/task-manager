@@ -316,6 +316,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 - [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
+- [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 
