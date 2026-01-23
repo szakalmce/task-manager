@@ -275,12 +275,14 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Czwartek, 22 stycznia 2026
 
 - [x] [PRACA] Kontakt telefoniczny z Jeremim Gryką (PSE) - jeśli nie odpowie na maila [WYSOKI]
+- [ ] [PRACA] Mom test - telefony [WYSOKI]
 - [ ] [PRACA] 11:00 - Rozmowa z Piotrem Kostrzewą-Zalewskim (Bank PKO) na temat AI deweloperów [WYSOKI]
 - [ ] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
 - [x] [ROZWÓJ OSOBISTY] Niemiecki - 50 słówek + 10 minut czytanie aktywne słuchanie [ŚREDNI]
 - [x] [ROZWÓJ OSOBISTY] Ustalenie 3 konferencji na Q1, na które chciałbym się wybrać [ŚREDNI]
+- [ ] [ROZWÓJ OSOBISTY] Claude Code - 2 lekcje [ŚREDNI]
 
 ---
 
