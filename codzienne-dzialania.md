@@ -290,7 +290,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
 - [ ] [PRACA] Rozmowa z Piotrem Kostrzewą-Zalewskim (Bank PKO) na temat AI deweloperów [WYSOKI]
-- [ ] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
+- [x] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
 - [ ] [PRACA] Kontakt z Inżynierem Bezpieczeństwa do PSE - follow-up (Wojciech Gustowski) [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [PRACA] Kontakt z Kamilem Harsimiukiem - podwyżka [ŚREDNI]
