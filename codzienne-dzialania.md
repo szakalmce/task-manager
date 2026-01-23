@@ -294,8 +294,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [PRACA] Kontakt z Kamilem Harsimiukiem - podwyżka [ŚREDNI]
-- [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up, jeśli nie odpisała - zadzwonić [ŚREDNI]
-- [ ] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
+- [x] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up, jeśli nie odpisała - zadzwonić [ŚREDNI]
+- [x] [ŻYCIE OSOBISTE] Kontakt z firmą Concentrix i Keywords w sprawie Firata [WYSOKI]
 
 **INFO:** Kamil Wąsowicz wraca z urlopu
 
@@ -313,6 +313,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Poniedziałek, 26 stycznia 2026
 
+- [ ] [PRACA] Rekrutacja do firmy Zen.com - Obsługa, Trafita i kontakt z Decision Makerem [WYSOKI]
 - [ ] [PRACA] Kontakt z Aleksandrem Siwickim (AI Developer) - feedback z rekrutacji do banku Pekao S.A. [WYSOKI]
 - [ ] [PRACA] Kontakt z Albertem Kindzierskim (Bank Millennium) - pytanie o DevOpsa [WYSOKI]
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
@@ -335,6 +336,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Środa, 28 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
+- [ ] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 
