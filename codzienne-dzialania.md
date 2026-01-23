@@ -275,6 +275,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Czwartek, 22 stycznia 2026
 
 - [x] [PRACA] Kontakt telefoniczny z Jeremim Gryką (PSE) - jeśli nie odpowie na maila [WYSOKI]
+- [x] [PRACA] Kontakt z Wojciechem Gustowskim (Inżynier Bezpieczeństwa do PSE) - follow-up [WYSOKI]
 - [ ] [PRACA] Mom test - telefony [WYSOKI]
 - [ ] [PRACA] 11:00 - Rozmowa z Piotrem Kostrzewą-Zalewskim (Bank PKO) na temat AI deweloperów [WYSOKI]
 - [ ] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
@@ -291,7 +292,6 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] ING Bank - odpowiedzi na pytania przetargowe (mail od banku) [WYSOKI]
 - [ ] [PRACA] Rozmowa z Piotrem Kostrzewą-Zalewskim (Bank PKO) na temat AI deweloperów [WYSOKI]
 - [x] [PRACA] AUTOPAY - Data Engineer: wysyłka kandydata, kontakt z managerem i kandydatem [WYSOKI]
-- [ ] [PRACA] Kontakt z Inżynierem Bezpieczeństwa do PSE - follow-up (Wojciech Gustowski) [WYSOKI]
 - [ ] [PRACA] Follow-up z PKO S.A. - jeśli nie odpisał, zadzwonić i zapytać czy DevOps mu się spodobał i czy chce o tym porozmawiać [ŚREDNI]
 - [ ] [PRACA] Kontakt z Kamilem Harsimiukiem - podwyżka [ŚREDNI]
 - [ ] [PRACA] Kontakt z Katarzyną Magierą (Beumer) - follow-up, jeśli nie odpisała - zadzwonić [ŚREDNI]
@@ -334,6 +334,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Środa, 28 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 
