@@ -340,11 +340,6 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
-
----
-
-## Środa, 29 stycznia 2026
-
 - [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
 
 ---
