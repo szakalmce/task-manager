@@ -343,6 +343,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
+## Środa, 29 stycznia 2026
+
+- [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
+
+---
+
 ## Czwartek, 29 stycznia 2026
 
 
