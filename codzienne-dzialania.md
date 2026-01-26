@@ -317,7 +317,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt z Aleksandrem Siwickim (AI Developer) - feedback z rekrutacji do banku Pekao S.A. [WYSOKI]
 - [ ] [PRACA] Kontakt z Albertem Kindzierskim (Bank Millennium) - pytanie o DevOpsa [WYSOKI]
 - [x] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
-- [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
+- [x] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [x] [PRACA] Kontakt z Vadimem Krasouckim - czy wszystko ok [ŚREDNI]
 
 ---
@@ -383,6 +383,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Poniedziałek, 23 lutego 2026
 
 - [ ] [PRACA] Kontakt z Vadimem Krasoucki - follow up [ŚREDNI]
+
+---
+
+## Poniedziałek, 24 lutego 2026
+
+- [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - follow up [ŚREDNI]
 
 ---
 
