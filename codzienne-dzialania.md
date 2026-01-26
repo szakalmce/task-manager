@@ -313,8 +313,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Poniedziałek, 26 stycznia 2026
 
-- [ ] [PRACA] Rekrutacja do firmy Zen.com - Obsługa, Trafita i kontakt z Decision Makerem [WYSOKI]
-- [ ] [PRACA] Kontakt z Aleksandrem Siwickim (AI Developer) - feedback z rekrutacji do banku Pekao S.A. [WYSOKI]
+- [x] [PRACA] Rekrutacja do firmy Zen.com - Obsługa, Trafita i kontakt z Decision Makerem [WYSOKI]
+- [x] [PRACA] Kontakt z Aleksandrem Siwickim (AI Developer) - feedback z rekrutacji do banku Pekao S.A. [WYSOKI]
 - [ ] [PRACA] Kontakt z Albertem Kindzierskim (Bank Millennium) - pytanie o DevOpsa [WYSOKI]
 - [x] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
