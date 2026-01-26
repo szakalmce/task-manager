@@ -352,7 +352,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Piątek, 30 stycznia 2026
 
-
+- [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
 
 ---
 
