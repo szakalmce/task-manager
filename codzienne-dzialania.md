@@ -318,7 +318,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Albertem Kindzierskim (Bank Millennium) - pytanie o DevOpsa [WYSOKI]
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
 - [ ] [PRACA] Kontakt z Ireneuszem Młynarczykiem - oczekiwania, samopoczucie, co można poprawić [ŚREDNI]
-- [ ] [PRACA] Kontakt z Vadimem Krasouckim - czy wszystko ok [ŚREDNI]
+- [x] [PRACA] Kontakt z Vadimem Krasouckim - czy wszystko ok [ŚREDNI]
 
 ---
 
@@ -376,6 +376,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Piątek, 20 lutego 2026
 
 - [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - follow-up: czy wszystko ok z Vadimem Krasouckim [ŚREDNI]
+
+---
+
+## Poniedziałek, 23 lutego 2026
+
+- [ ] [PRACA] Kontakt z Vadimem Krasoucki - follow up [ŚREDNI]
 
 ---
 
