@@ -324,7 +324,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 27 stycznia 2026
 
-- [ ] [PRACA] Kontakt z Marcinem Laskowskim w sprawie Mikuca - jeśli nie odpisze ani nie oddzwoni [WYSOKI]
+- [x] [PRACA] Kontakt z Marcinem Laskowskim w sprawie Mikuca - jeśli nie odpisze ani nie oddzwoni [WYSOKI]
 - [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
 - [ ] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
@@ -346,7 +346,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Czwartek, 29 stycznia 2026
 
-
+- [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Mikucem - informacja o zakończeniu współpracy do końca lutego [WYSOKI]
 
 ---
 
