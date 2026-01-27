@@ -326,7 +326,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 - [x] [PRACA] Kontakt z Marcinem Laskowskim w sprawie Mikuca - jeśli nie odpisze ani nie oddzwoni [WYSOKI]
 - [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
-- [ ] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
+- [x] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
