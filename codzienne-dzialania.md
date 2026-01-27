@@ -325,7 +325,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Wtorek, 27 stycznia 2026
 
 - [x] [PRACA] Kontakt z Marcinem Laskowskim w sprawie Mikuca - jeśli nie odpisze ani nie oddzwoni [WYSOKI]
-- [ ] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
+- [x] [PRACA] Follow-up z Jeremim Gryką (PSE) - pytanie o kwestię inżyniera bezpieczeństwa [WYSOKI]
 - [x] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - DevOps, feedback [WYSOKI]
@@ -353,6 +353,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Piątek, 30 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
+- [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
 
 ---
 
