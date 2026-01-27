@@ -336,6 +336,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Środa, 28 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Mileną Zamłyńską (Data Engineer do Autopay) - weryfikacja czy pracowała bezpośrednio z Databricks, Snowflake lub ClickHouse [WYSOKI]
+- [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - wysłanie blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
