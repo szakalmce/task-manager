@@ -344,6 +344,14 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 - [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
 
+### NOTATKI
+
+**Milena Zamłyńska (Data Engineer - AUTOPAY):**
+- NIE pracowała bezpośrednio z Databricks
+- Pracowała i pracuje ze Sparkiem, który jest blisko oparty na Databricks (Spark jest podstawą Databricks)
+- ⚠️ Poinformować klienta, że to mój błąd w ocenie doświadczenia
+- Projekt Ascension: projekt dla dużej platformy social mediowej
+
 ---
 
 ## Czwartek, 29 stycznia 2026
