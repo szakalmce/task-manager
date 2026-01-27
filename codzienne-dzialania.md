@@ -329,13 +329,13 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt z Radosławem Banym - tester automatyzujący, feedback [WYSOKI]
 - [x] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - DevOps, feedback [WYSOKI]
 - [x] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - DevOps, feedback [WYSOKI]
-- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
-- [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 
 ---
 
 ## Środa, 28 stycznia 2026
 
+- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
 - [ ] [PRACA] Kontakt z Mileną Zamłyńską (Data Engineer do Autopay) - weryfikacja czy pracowała bezpośrednio z Databricks, Snowflake lub ClickHouse [WYSOKI]
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - wysłanie blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
