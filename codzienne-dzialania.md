@@ -335,14 +335,14 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Środa, 28 stycznia 2026
 
 - [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
-- [ ] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
-- [ ] [PRACA] Kontakt z Mileną Zamłyńską (Data Engineer do Autopay) - weryfikacja czy pracowała bezpośrednio z Databricks, Snowflake lub ClickHouse [WYSOKI]
+- [x] [PRACA] Kontakt z Damianem Błaszczakiem - ustalenie podwyżki, kontakt z menedżerem [ŚREDNI]
+- [x] [PRACA] Kontakt z Mileną Zamłyńską (Data Engineer do Autopay) - weryfikacja czy pracowała bezpośrednio z Databricks, Snowflake lub ClickHouse [WYSOKI]
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - wysłanie blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
-- [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
+- [x] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
 
 ### NOTATKI
 
@@ -366,6 +366,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - feedback negatywny, dlaczego nie otrzymał oferty [ŚREDNI]
 - [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - feedback emailowy [ŚREDNI]
+- [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
+- [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - jeśli nie odpisze na maila, ostatni follow up [WYSOKI]
 
 ---
 
@@ -378,6 +380,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Wtorek, 4 lutego 2026
 
 - [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
+
+---
+
+## Środa, 4 lutego 2026
+
+- [ ] [PRACA] Kontakt telefoniczny z Damianem Błaszczakiem - follow up ws. podwyżki [ŚREDNI]
 
 ---
 
