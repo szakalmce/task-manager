@@ -370,6 +370,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
 - [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - jeśli nie odpisze na maila, ostatni follow up [WYSOKI]
+- [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
 
 ---
 
