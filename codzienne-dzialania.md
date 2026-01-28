@@ -339,7 +339,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [x] [PRACA] Kontakt z Mileną Zamłyńską (Data Engineer do Autopay) - weryfikacja czy pracowała bezpośrednio z Databricks, Snowflake lub ClickHouse [WYSOKI]
 - [x] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - wysłanie blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
-- [ ] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
+- [x] [PRACA] Kontakt z Krzysztofem Porwołem (Beumer) - jeśli nie odpisała Katarzyna Magiera [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 - [x] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - podwyżka dla Kamila Harasimiuka [WYSOKI]
@@ -368,6 +368,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - feedback emailowy [ŚREDNI]
 - [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
+- [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
 - [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - jeśli nie odpisze na maila, ostatni follow up [WYSOKI]
 
 ---
