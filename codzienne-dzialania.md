@@ -379,8 +379,15 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
-- [ ] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - jeśli nie odpisze na maila, ostatni follow up [WYSOKI]
+- [x] [PRACA] Kontakt z Tomaszem Jochymskim (Bank Millennium) - jeśli nie odpisze na maila, ostatni follow up [WYSOKI]
 - [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
+
+### NOTATKI
+
+**Tomasz Jochymski (Bank Millennium):**
+- Nie odpisał na maila
+- Nie udało się zdobyć numeru telefonu
+- **Kolejny krok**: Kontakt z Tomkiem Solorzem - prośba o przekazanie kontaktu lub prośba żeby Tomasz Jochymski się odezwał
 
 ---
 
@@ -392,6 +399,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Wtorek, 4 lutego 2026
 
+- [ ] [PRACA] Kontakt z Tomkiem Solorzem - prośba o przekazanie kontaktu do Tomasza Jochymskiego lub prośba żeby Tomasz Jochymski się odezwał [WYSOKI]
 - [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
 
 ---
