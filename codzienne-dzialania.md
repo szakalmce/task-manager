@@ -393,6 +393,18 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Poniedziałek, 3 lutego 2026
 
+### Przeniesione z 30 stycznia:
+- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
+- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
+- [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
+- [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
+- [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
+- [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
+- [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
+- [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
+
+### Zaplanowane na dziś:
 - [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Wiolettą Plutą (Bank Millennium) - pytanie o podwyżkę dla Kamila Harasimiuka i workflow pracy [WYSOKI]
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
 
