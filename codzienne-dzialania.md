@@ -406,6 +406,10 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Środa, 5 lutego 2026
 
+- [ ] [PRACA] 🔴 PRIORYTET - Wysłać vouchery do EMPiK-u:
+  - [ ] Grzegorz Kurek (Boś Bank)
+  - [ ] Sebastian (Standard Chartered)
+  - [ ] Lucyna Sojka (PayYou)
 - [ ] [PRACA] Kontakt z Mikucem - weryfikacja jego oczekiwań, tego czego szuka i próba znalezienia na niego nowego projektu [WYSOKI]
 - [ ] [PRACA] Kontakt telefoniczny z Damianem Błaszczakiem - follow up ws. podwyżki [ŚREDNI]
 
