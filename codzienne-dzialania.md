@@ -374,8 +374,8 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ### Zaplanowane na dziś:
 - [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
-- [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - feedback negatywny, dlaczego nie otrzymał oferty [ŚREDNI]
-- [ ] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - feedback emailowy [ŚREDNI]
+- [x] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - feedback negatywny, dlaczego nie otrzymał oferty [ŚREDNI]
+- [x] [PRACA] Kontakt z Przemysławem Siepsiakiem (PKO) - feedback emailowy [ŚREDNI]
 - [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
 - [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
 - [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
