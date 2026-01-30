@@ -352,16 +352,26 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Czwartek, 29 stycznia 2026
 
-- [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Mikucem - informacja o zakończeniu współpracy do końca lutego [WYSOKI]
-- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
-- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
-- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
-- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
+**Wszystkie zadania przeniesione na 30 stycznia**
+
+- [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Mikucem - informacja o zakończeniu współpracy do końca lutego [WYSOKI] *(przeniesione na 30.01)*
+- [ ] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI] *(przeniesione na 30.01)*
+- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI] *(przeniesione na 30.01)*
+- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI] *(przeniesione na 30.01)*
+- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI] *(przeniesione na 30.01)*
 
 ---
 
 ## Piątek, 30 stycznia 2026
 
+### Przeniesione z 29 stycznia:
+- [x] [PRACA] 🔴 PRIORYTET - Kontakt z Mikucem - informacja o zakończeniu współpracy do końca lutego [WYSOKI]
+- [x] [PRACA] Kontakt z Magdą Wiśniewską - współpraca z dostawcami, performance pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
+- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
+
+### Zaplanowane na dziś:
 - [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
 - [ ] [PRACA] Kontakt z Jakubem Wilczyńskim (PKO) - feedback negatywny, dlaczego nie otrzymał oferty [ŚREDNI]
@@ -386,8 +396,9 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
-## Środa, 4 lutego 2026
+## Środa, 5 lutego 2026
 
+- [ ] [PRACA] Kontakt z Mikucem - weryfikacja jego oczekiwań, tego czego szuka i próba znalezienia na niego nowego projektu [WYSOKI]
 - [ ] [PRACA] Kontakt telefoniczny z Damianem Błaszczakiem - follow up ws. podwyżki [ŚREDNI]
 
 ---
@@ -437,6 +448,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Czwartek, 12 marca 2026
 
 - [ ] [PRACA] Follow-up z Karolem Tajduś (Pekao) - szef AI, zapytać czy wszystko ok, jak współpraca, czy potrzebuje dodatkowego wsparcia [ŚREDNI]
+
+---
+
+## Poniedziałek, 16 marca 2026
+
+- [ ] [PRACA] Kontakt z Magdą Wiśniewską - pytanie o performance pracowników [ŚREDNI]
 
 ---
 
