@@ -601,3 +601,9 @@ Rozmowa z G-Sourcing Poland zakończona pozytywnie. Kolejne kroki:
 - [ ] Dodać do standardu ofertowego sekcję "Plan awaryjny i zabezpieczenia projektu"
 
 ---
+
+## Środa, 2 kwietnia 2026
+
+- [ ] [PRACA] Kontakt z Karoliną Szewczyk (Bank Millennium) - follow-up w sprawie Zofii Juszkiewicz: sprawdzenie jak dalej układa się współpraca, weryfikacja czy wszystko nadal OK, feedback dotyczący pracy Zofii [ŚREDNI]
+
+---
