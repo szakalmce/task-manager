@@ -406,6 +406,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ### Zaplanowane na dziś:
 - [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Wiolettą Plutą (Bank Millennium) - pytanie o podwyżkę dla Kamila Harasimiuka i workflow pracy [WYSOKI]
+- [ ] [PRACA] Kontakt z menadżerem/dyrektorem Goodie (Bank Millennium) [ŚREDNI]
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
 
 ---
@@ -461,6 +462,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 ## Wtorek, 3 marca 2026
 
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - follow up, czy wszystko jest ok [ŚREDNI]
+- [ ] [PRACA] Kontakt z Zofią Juszkiewicz - follow-up, jak się jej pracuje [ŚREDNI]
 
 ---
 
