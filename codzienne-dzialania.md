@@ -391,34 +391,42 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ---
 
-## Poniedziałek, 3 lutego 2026
+## Poniedziałek, 2 lutego 2026
 
 ### Przeniesione z 30 stycznia:
-- [ ] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
+- [x] [PRACA] Kontakt z Wojciechem Gustowskim (PSE) - ostatni feedback telefoniczny [WYSOKI]
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
-- [ ] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
+- [x] [PRACA] Kontakt z Maciejem Maroszem (Python Developer do zen.com) - feedback [WYSOKI]
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
-- [ ] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
-- [ ] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
-- [ ] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
+- [x] [PRACA] Kontakt telefoniczny z Mileną Zamłyńską (AUTOPAY) - follow up rekrutacji, zaangażowanie [WYSOKI]
+- [x] [PRACA] Kontakt z Mateuszem Jakitowiczem (AUTOPAY) - follow up ws. blind CV kandydatki [WYSOKI]
+- [x] [PRACA] Kontakt z Krzysztofem Porwołem / Katarzyną Magierą (Beumer) - jeśli nie odpisał, finalne ustalenie czy działamy w kwestii rekrutacji [WYSOKI]
 - [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
 
 ### Zaplanowane na dziś:
-- [ ] [PRACA] 🔴 PRIORYTET - Kontakt z Wiolettą Plutą (Bank Millennium) - pytanie o podwyżkę dla Kamila Harasimiuka i workflow pracy [WYSOKI]
-- [ ] [PRACA] Kontakt z menadżerem/dyrektorem Goodie (Bank Millennium) [ŚREDNI]
+- [x] [PRACA] 🔴 PRIORYTET - Kontakt z Wiolettą Plutą (Bank Millennium) - pytanie o podwyżkę dla Kamila Harasimiuka i workflow pracy [WYSOKI]
+- [x] [PRACA] Kontakt z menadżerem/dyrektorem Goodie (Bank Millennium) [ŚREDNI]
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
 
 ---
 
-## Wtorek, 4 lutego 2026
+## Wtorek, 3 lutego 2026
 
+### Przeniesione z 2 lutego:
+- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
+- [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
+- [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
+- [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
+
+### Zaplanowane na dziś:
 - [ ] [PRACA] Kontakt z Tomkiem Solorzem - prośba o przekazanie kontaktu do Tomasza Jochymskiego lub prośba żeby Tomasz Jochymski się odezwał [WYSOKI]
 - [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
 
 ---
 
-## Środa, 5 lutego 2026
+## Środa, 4 lutego 2026
 
 - [ ] [PRACA] 🔴 PRIORYTET - Wysłać vouchery do EMPiK-u:
   - [ ] Grzegorz Kurek (Boś Bank)
