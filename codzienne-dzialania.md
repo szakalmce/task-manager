@@ -417,7 +417,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
 - [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
-- [ ] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
+- [x] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
 
 ### Zaplanowane na dziś:
@@ -434,6 +434,12 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
   - [ ] Lucyna Sojka (PayYou)
 - [ ] [PRACA] Kontakt z Mikucem - weryfikacja jego oczekiwań, tego czego szuka i próba znalezienia na niego nowego projektu [WYSOKI]
 - [ ] [PRACA] Kontakt telefoniczny z Damianem Błaszczakiem - follow up ws. podwyżki [ŚREDNI]
+
+---
+
+## Poniedziałek, 9 lutego 2026
+
+- [ ] [PRACA] Kontakt z Sebastianem Pastuszewiczem - data inżynier do AutoPay Feedback [WYSOKI]
 
 ---
 
