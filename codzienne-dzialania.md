@@ -415,7 +415,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ### Przeniesione z 2 lutego:
 - [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
-- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
+- [x] [PRACA] Kontakt z Michałem Klawikowskim (Millennium) - współpraca z dostawcami, performance Grzegorza Starka i Eweliny Trybułowskiej [ŚREDNI]
 - [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
 - [x] [PRACA] Wysłać voucher Empik do Sebastiana [ŚREDNI]
 - [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
@@ -477,6 +477,7 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 - [ ] [PRACA] Kontakt z Markiem Szewczykiem - follow up, czy wszystko jest ok [ŚREDNI]
 - [ ] [PRACA] Kontakt z Zofią Juszkiewicz - follow-up, jak się jej pracuje [ŚREDNI]
+- [ ] [PRACA] Kontakt z Michałem Klawikowskim (Bank Millennium) - follow-up: czy pojawiła się nowa osoba kontaktowa (Kasia), weryfikacja zmiany organizacyjnej, performance Grzegorza i Eweliny [ŚREDNI]
 
 ---
 
