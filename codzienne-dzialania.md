@@ -428,11 +428,19 @@ Kontynuacja pracy nad przetargiem ING - analiza dokumentu DORA. Rozmowy z Grzego
 
 ## Środa, 4 lutego 2026
 
+### Przeniesione z 3 lutego:
+- [ ] [PRACA] Kontakt z Danielem Bartkowskim (ING Bank) - wytyczne współpracy z dostawcami, weryfikacja pracy pracowników [ŚREDNI]
+- [ ] [PRACA] Kontakt z Kamilem Wąsowiczem (PSE) - inżynier bezpieczeństwa, jeśli nie odpisze Jeremi Grzyka [WYSOKI]
+- [ ] [PRACA] Kontakt z Marcinem Sobolewskim ws. podwyżki [ŚREDNI]
+- [x] [PRACA] Kontakt z Tomkiem Solorzem - prośba o przekazanie kontaktu do Tomasza Jochymskiego lub prośba żeby Tomasz Jochymski się odezwał [WYSOKI]
+- [ ] [PRACA] Kontakt z Julią Rześniowiecką (Bank Millennium) - osoba odpowiedzialna za współpracę z dostawcami [ŚREDNI]
+
+### Zaplanowane na dziś:
 - [ ] [PRACA] 🔴 PRIORYTET - Wysłać vouchery do EMPiK-u:
-  - [ ] Grzegorz Kurek (Boś Bank)
-  - [ ] Sebastian (Standard Chartered)
-  - [ ] Lucyna Sojka (PayYou)
-- [ ] [PRACA] Kontakt z Mikucem - weryfikacja jego oczekiwań, tego czego szuka i próba znalezienia na niego nowego projektu [WYSOKI]
+  - [x] Grzegorz Kurek (Boś Bank)
+  - [x] Sebastian (Standard Chartered)
+  - [x] Lucyna Sojka (PayYou)
+- [x] [PRACA] Kontakt z Mikucem - weryfikacja jego oczekiwań, tego czego szuka i próba znalezienia na niego nowego projektu [WYSOKI]
 - [ ] [PRACA] Kontakt telefoniczny z Damianem Błaszczakiem - follow up ws. podwyżki [ŚREDNI]
 
 ---
